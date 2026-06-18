@@ -1,7 +1,7 @@
 # COVID-19 SQL Analysis
 
 ## Project Overview
-This project performs an analysis of global COVID-19 data using SQLite. The analysis explores infection rates, death rates, and vaccination progress across different countries and continents using real-world pandemic data.
+This project performs an analysis of global COVID-19 data using SQLite. The analysis explores infection rates, death rates, and vaccination progress across different countries.
 
 ## Dataset Description
 The analysis uses two main datasets:
@@ -57,6 +57,3 @@ Both datasets are sourced from [Our World in Data](https://ourworldindata.org/co
 1. Open DB Browser for SQLite
 2. Load the database file
 3. Run the queries in `analysis.sql`
-
-## Author
-Opeoluwa Omoniyi
