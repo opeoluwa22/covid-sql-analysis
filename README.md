@@ -3,6 +3,13 @@
 ## Project Description
 This project analyzes global COVID-19 data using SQLite. It explores infection rates, death rates, and vaccination progress across different countries and continents.
 
+## Data Source
+The data is sourced from [Our World in Data COVID-19 Dataset](https://ourworldindata.org/covid-deaths).
+To run this project:
+1. Download the CSV files from Our World in Data
+2. Import them into SQLite as `CovidDeaths1` and `CovidVaccinations`
+3. Run the SQL queries
+
 ## Key Queries
 - Total Cases vs Total Deaths
 - Infection Rate vs Population
